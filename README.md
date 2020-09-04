@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/rajas2716/Udacity_MachineLearning_Project.svg?style=svg)](https://app.circleci.com/pipelines/github/rajas2716/Udacity_MachineLearning_Project)
+
 
 ## Project Overview
 
